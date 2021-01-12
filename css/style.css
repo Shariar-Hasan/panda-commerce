@@ -1,0 +1,36 @@
+.panda-slider{
+    background-color: #FCEAE8;
+    border-radius: 20px;
+}
+.catagories img{
+    width: 100px;
+}
+.c1,.c2,.c3{
+    border-radius: 15px;
+}
+.c1{
+    background-color: #FFA500;
+}
+.c2{
+    background-color: #DA70D6;
+}
+.c3{
+    background-color: #0000FF;
+}
+.card{
+    border-radius: 15px;
+    box-shadow: 2px 3px 10px #00000034;
+    border: none;
+    outline: none;
+}
+.panda-btn{
+    background-image: linear-gradient(to top, #FF1771, #FF5398 );
+    border: none;
+    border-radius: 10px;
+    padding: 10px 24px;
+}
+.panda-sub{
+    background-color: #FCEAE8;
+    height: 350px;
+    border-radius: 12px;
+}
